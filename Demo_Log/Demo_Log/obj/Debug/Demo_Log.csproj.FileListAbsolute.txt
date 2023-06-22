@@ -1,0 +1,11 @@
+D:\CPI_02\Demo_Log\Demo_Log\bin\Debug\Demo_Log.exe.config
+D:\CPI_02\Demo_Log\Demo_Log\bin\Debug\Demo_Log.exe
+D:\CPI_02\Demo_Log\Demo_Log\bin\Debug\Demo_Log.pdb
+D:\CPI_02\Demo_Log\Demo_Log\bin\Debug\log4net.dll
+D:\CPI_02\Demo_Log\Demo_Log\bin\Debug\log4net.xml
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.csproj.AssemblyReference.cache
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.csproj.SuggestedBindingRedirects.cache
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.csproj.CoreCompileInputs.cache
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.csproj.CopyComplete
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.exe
+D:\CPI_02\Demo_Log\Demo_Log\obj\Debug\Demo_Log.pdb
